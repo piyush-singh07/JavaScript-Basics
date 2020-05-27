@@ -12,9 +12,6 @@ for (cities of city) {
                     } else {
                         console.log(nums)
                     }
-
-
-
                 }
             } else {
                 console.log(num)
