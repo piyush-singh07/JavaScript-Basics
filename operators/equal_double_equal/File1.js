@@ -1,4 +1,6 @@
 /*
+
+=  --> aasignment 
 == --> compares the content
 === --> compares content as well as type checking
 */
@@ -16,6 +18,12 @@ console.log(10 === "10")
 console.log(10 == 10)
 console.log(10 === 10)
 
+console.log(true == "1")
+console.log(false == "0")
+console.log(true === "1")
+console.log(false == "0")
+console.log(null == undefined)
+console.log(null === undefined)
 
 
 
