@@ -9,3 +9,9 @@ console.log(a <= b)
 console.log(a >= b)
 console.log(a == b)
 console.log(a === b)
+
+console.log(a != b)
+
+
+var a = true
+console.log(!a)
