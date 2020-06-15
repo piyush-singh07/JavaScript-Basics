@@ -14,5 +14,6 @@ Contents:
 11. Loops
 12. Functions
 13. let and const
+14. closures and hoisting
 
 
