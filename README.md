@@ -11,5 +11,9 @@ Contents:
 8. Arrays
 9. Regex
 10. Storage
+11. Loops
+12. Functions
+13. let and const
+14. closures and hoisting
 
 
