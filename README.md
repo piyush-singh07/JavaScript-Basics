@@ -16,6 +16,8 @@ Contents:
 13. let and const
 14. closures and hoisting
 15. objects
-tasks
+16. transpile
+99. tasks
+
 
 
