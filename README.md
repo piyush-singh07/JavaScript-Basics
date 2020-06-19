@@ -19,6 +19,8 @@ Contents:
 16. transpile
 17. this_keyword
 18. classes
+19. prototype
+20. call_apply
 99. tasks
 
 
