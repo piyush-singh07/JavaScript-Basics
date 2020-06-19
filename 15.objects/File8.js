@@ -1,11 +1,8 @@
-//ES6
+//class concept with function till ES5 version
 
-class country {
-    constructor(name, capital) {
-        this.name = name;
-        this.capital = capital;
-    }
-
+function country(name, capital) {
+    this.name = name;
+    this.capital = capital;
 }
 
 
