@@ -2,7 +2,7 @@
 
 function Geo(lat) {
     this.lat = lat;
-    this.long = 9090;
+    this.long = long;
 }
 
 
@@ -14,9 +14,10 @@ function Country(name, capital, planet) {
 
 Country.prototype = new Geo()
 Country.prototype.lat = 9999
+Country.prototype.long = 8080
 let country1 = new Country('India', 'Delhi')
 
-
+console.log('-----------')
 console.log(country1.name)
 console.log(country1.capital)
 console.log(country1.planet)
