@@ -13,4 +13,9 @@
     Use case: Like on page load if we want to call any url ,etc
 */
 
+//without arrow functions
 (function() { console.log('Hi I am JS') }())
+
+
+//with arrow functions
+(() => { console.log('Hello JS') })()
