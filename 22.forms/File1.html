@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <div>
+            <label for="username">username</label>
+            <input id="username" name="username" type="text" onblur="checkUserName()" />
+            <p id="uout"></p> <br><br>
+        </div>
+        <div>
+            <label for="passcode">password</label>
+            <input type="password" id="passcode" name="passcode" onblur="checkPasscode()" />
+            <p id="pout"></p><br><br>
+        </div>
+        <div>
+            <label for=" cpasscode">confirm password</label>
+            <input type=" password " id="cpasscode " name="cpasscode " onblur="checkConfirmPasscode()" />
+            <p id="cout"></p>
+        </div>
+
+    </div>
+
+    <script src="File1.js "></script>
+
+</body>
+
+</html>
