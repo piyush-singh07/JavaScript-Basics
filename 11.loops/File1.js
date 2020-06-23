@@ -19,3 +19,5 @@ var cities = ['Helsinki', 'London', 'Delhi', 'New York']
 for (var i = 0; i < cities.length; i++) {
     console.log(cities[i])
 }
+
+cities.forEach(city => { console.log(city) })
