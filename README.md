@@ -21,6 +21,10 @@ Contents:
 18. classes
 19. prototype
 20. call_apply
+21. DOM
+22. forms
+23. promises
+24. async await
 99. tasks
 
 
