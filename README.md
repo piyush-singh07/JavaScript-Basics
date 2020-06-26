@@ -25,6 +25,9 @@ Contents:
 22. forms
 23. promises
 24. async await
+25. json
+26. progress bar
+27. dynamic dropdown
 99. tasks
 
 
