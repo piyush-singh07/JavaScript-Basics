@@ -28,6 +28,9 @@ Contents:
 25. json
 26. progress bar
 27. dynamic dropdown
+28. Currency Converter
+29. Weather Application
+30. Calculator
 99. tasks
 
 
