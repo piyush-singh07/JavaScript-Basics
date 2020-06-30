@@ -24,13 +24,12 @@ Contents:
 21. DOM
 22. forms
 23. promises
-24. async await
+24. async await  / currency converter
 25. json
 26. progress bar
 27. dynamic dropdown
-28. Currency Converter
-29. Weather Application
-30. Calculator
+28. Weather Application
+29. Calculator
 99. tasks
 
 
