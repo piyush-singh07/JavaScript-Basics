@@ -20,7 +20,7 @@ Contents:
 17. this_keyword
 18. classes
 19. prototype
-20. call_apply
+20. call and apply methods
 21. DOM
 22. forms
 23. promises
