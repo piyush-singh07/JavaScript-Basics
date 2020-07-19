@@ -6,7 +6,7 @@ Contents:
 3. String
 4. Math
 5. Input
-6. Date
+6. Date and other functions related to date
 7. switch-case
 8. Arrays
 9. Regex
@@ -22,7 +22,7 @@ Contents:
 19. prototype
 20. call and apply methods
 21. DOM
-22. forms
+22. forms and form validations
 23. promises
 24. async await  / currency converter
 25. json
