@@ -23,14 +23,8 @@ Contents:
 20. call_apply
 21. DOM
 22. forms
-23. promises
-24. async await  / currency converter
-25. json
-26. progress bar
-27. dynamic dropdown
-28. Weather Application
-29. Calculator
-99. tasks
+23. Weather Application
+24. tasks
 
 
 
