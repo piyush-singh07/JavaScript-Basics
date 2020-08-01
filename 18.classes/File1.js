@@ -1,4 +1,4 @@
-//ES6
+//classes concept from ES6 
 
 class country {
     constructor(name, capital) {

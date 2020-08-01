@@ -6,7 +6,7 @@ Contents:
 3. String
 4. Math
 5. Input
-6. Date
+6. Date and other functions related to date
 7. switch-case
 8. Arrays
 9. Regex
@@ -20,11 +20,12 @@ Contents:
 17. this_keyword
 18. classes
 19. prototype
-20. call_apply
+20. call and apply methods
 21. DOM
 22. forms
 23. Weather Application
 24. tasks
+
 
 
 
