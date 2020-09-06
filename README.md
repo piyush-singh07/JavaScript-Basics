@@ -24,7 +24,7 @@ Contents:
 21. DOM
 22. forms
 23. Weather Application
-24. tasks and other stuff
+24. tasks and other practice
 
 
 
