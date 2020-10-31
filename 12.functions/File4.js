@@ -1,4 +1,4 @@
-/* IIFE OR Anonymous Functions
+/* IIFE 
     IIFE --> Immediately Invocable Function
     Anonymous Function  --> IIFE is also caleed anonymous function as they dont have any name
 
